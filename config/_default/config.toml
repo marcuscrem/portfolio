@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://marcuscrem.github.io/portfolio"
 languageCode = "en-us"
-title = "Marcus Cremades  Aguilar"
+title = "Marcus Cremades Aguilar"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybersecurity on Marcus Cremades Aguilar</title><link>https://marcuscrem.github.io/portfolio/categories/cybersecurity/</link><description>Recent content in Cybersecurity on Marcus Cremades Aguilar</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://marcuscrem.github.io/portfolio/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml"/><item><title>Strengthening Network Security in the Age of Home Office</title><link>https://marcuscrem.github.io/portfolio/p/hello-world/</link><pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate><guid>https://marcuscrem.github.io/portfolio/p/hello-world/</guid><description>&lt;img src="https://marcuscrem.github.io/portfolio/p/hello-world/cyber1.jpg" alt="Featured image of post Strengthening Network Security in the Age of Home Office" />&lt;p>As companies continue embracing remote work, the security of corporate networks becomes more critical than ever.
+For IT specialists, understanding subnetting, VLANs, and network privacy is no longer optional—it&amp;rsquo;s essential.&lt;/p>
+&lt;p>🔐 Subnetting helps to break large networks into smaller, more manageable segments.
+This not only optimizes performance but also limits the scope of potential breaches.
+When an issue arises, subnetting ensures it’s isolated, minimizing the impact on the overall system.&lt;/p>
+&lt;p>🌐 VLANs (Virtual Local Area Networks) allow organizations to segment their networks based on departments, roles, or needs.
+Imagine separating HR and IT traffic—even on the same physical infrastructure!
+This segmentation significantly reduces the risk of unauthorized access and keeps sensitive data protected.&lt;/p>
+&lt;p>🏠 For companies operating with a hybrid or home office model, ensuring network privacy is paramount.
+Employees often connect from less-secure environments, making it crucial to implement solutions like VPNs, encrypted traffic, and properly configured firewalls.&lt;/p>
+&lt;p>By mastering these concepts, IT professionals can design secure, efficient, and scalable networks, helping businesses thrive in a connected world.&lt;/p>
+&lt;p>How is your company handling network segmentation and privacy for remote teams? Let’s discuss below!&lt;/p>
+&lt;p>For more information about this topic, check out this article: &lt;a class="link" href="https://www.thetimes.com/world/us-world/article/north-korean-spy-knowbe4-tech-wzbfrlzk6?utm_source=chatgpt.com&amp;amp;region=global" target="_blank" rel="noopener"
+>https://www.thetimes.com/world/us-world/article/north-korean-spy-knowbe4-tech-wzbfrlzk6?utm_source=chatgpt.com&amp;region=global&lt;/a>&lt;/p></description></item></channel></rss>

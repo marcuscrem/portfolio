@@ -3,11 +3,12 @@ title: Strengthening Network Security in the Age of Home Office
 description: As companies continue embracing remote work, the security of corporate networks
 slug: hello-world
 date: 2024-08-02 00:00:00+0000
-image: cover.jpg
+image: cyber1.jpg
 categories:
     - Cybersecurity
 tags:
-    - Home Office, Remote work
+    - Home Office
+    - Remote work
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

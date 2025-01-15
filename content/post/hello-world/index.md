@@ -1,6 +1,6 @@
 ---
 title: Strengthening Network Security in the Age of Home Office
-description: As companies continue embracing remote work, the security of corporate networks
+description: As companies continue embracing remote work...
 slug: hello-world
 date: 2024-08-02 00:00:00+0000
 image: cyber1.jpg

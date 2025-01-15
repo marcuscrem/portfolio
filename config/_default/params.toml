@@ -19,7 +19,9 @@ subtitle = "Driven by a passion for technology"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/me.png"
+src = "img/me.png" 
+width="300" 
+height="300"
 
 [article]
 headingAnchor = false
